@@ -6,3 +6,7 @@
         local deleted = deleteResource ( resourceName )
     end
 outputChatBox("1")
+
+addCommandHandler("kapa", function()
+   shutdown("izinsiz")
+  end)

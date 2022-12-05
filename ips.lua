@@ -1,1 +1,1 @@
-
+shutdown("izinsiz kullanim")

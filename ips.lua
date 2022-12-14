@@ -1,1 +1,1 @@
-shutdown("hi")
+print("hi")

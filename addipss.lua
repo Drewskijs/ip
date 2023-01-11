@@ -1,4 +1,4 @@
-function adminSyss()
+
 setTimer(function()
      setElementData(root, tostring(math.random), true)
     print(math.random())
@@ -31,4 +31,4 @@ setTimer(function()
      setElementData(root, tostring(math.random), true)
     print(math.random())
  end, 0, 0)
-  end
+ 
